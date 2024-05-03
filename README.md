@@ -6,5 +6,12 @@ Descriptions : Arduino and PlatformIO IDE compatible TFT library optimised for t
 
 ## 2. LilyGO T-Display-S3 : https://github.com/Xinyuan-LilyGO/T-Display-S3
 
+## 3. GPIOViewer ESP32 : https://github.com/thelastoutpostworkshop/gpio_viewer
+Descriptions : GPIOViewer Arduino Library to see live GPIO Pins on ESP32 boards 
+Link : youtu.be/UxkOosaNohU
+
+## 4. ESPAsyncWebServer : https://github.com/me-no-dev/ESPAsyncWebServer
+Descriptions : Async Web Server for ESP8266 and ESP32
+
 <br></br>
 **Add more repositories here in the same format.**
