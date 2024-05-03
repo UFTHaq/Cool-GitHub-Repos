@@ -14,8 +14,8 @@ Link : youtu.be/UxkOosaNohU
 Descriptions : Async Web Server for ESP8266 and ESP32
 
 ## 5. Audio to MIDI Melodia : https://github.com/justinsalamon/audio_to_midi_melodia
-Descriptions : Extract the melody from an audio file and export to MIDI 
-Tips : to run at python 3 : https://github.com/justinsalamon/audio_to_midi_melodia/issues/8
+Descriptions : Extract the melody from an audio file and export to MIDI\
+Tips to run at python 3 : https://github.com/justinsalamon/audio_to_midi_melodia/issues/8
 
 <br></br>
 **Add more repositories here in the same format.**
