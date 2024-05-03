@@ -13,5 +13,8 @@ Link : youtu.be/UxkOosaNohU
 ## 4. ESPAsyncWebServer : https://github.com/me-no-dev/ESPAsyncWebServer
 Descriptions : Async Web Server for ESP8266 and ESP32
 
+## 5. Audio to MIDI Melodia : https://github.com/justinsalamon/audio_to_midi_melodia
+Descriptions : Extract the melody from an audio file and export to MIDI 
+
 <br></br>
 **Add more repositories here in the same format.**
