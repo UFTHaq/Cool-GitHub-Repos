@@ -17,5 +17,8 @@ Descriptions : Async Web Server for ESP8266 and ESP32
 Descriptions : Extract the melody from an audio file and export to MIDI\
 Tips to run at python 3 : https://github.com/justinsalamon/audio_to_midi_melodia/issues/8
 
+## 6. sqlite_micro_logger_arduino : https://github.com/siara-cc/sqlite_micro_logger_arduino
+Descriptions : Fast and Lean Sqlite database logger for Arduino UNO and above (ESP8266, ESP32, etc).
+
 <br></br>
 **Add more repositories here in the same format.**
